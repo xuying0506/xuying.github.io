@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[CV in pdf](https://xuying.github.io/files/CV_YingXu.pdf)
 
-Work experience
+<!-- Education
+======
+* Ph.D., Economics, Yale University, (Expected 2024)
+* M.Phil, M.A., Economics, Yale University, 2022
+* M.A., Economics, FGV EPGE, 2018
+* B.A., Economics, PUC-Rio, 2015 -->
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
