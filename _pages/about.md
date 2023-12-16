@@ -10,7 +10,7 @@ redirect_from:
 
 
 <!-- <div class="figure_aboutme">
-  <img src="https://xuying.github.io/images/Ying.JPG" />
+  <img src="https://xuying0506.github.io/images/Ying.JPG" />
 </div> -->
 
 I am a Ph.D. candidate in Economics and Education at Columbia University.
@@ -21,4 +21,4 @@ I am on the 2023-24 job market.
 
 You can reach me at [yx2471@tc.columbia.edu](mailto:yx2471@tc.columbia.edu).
 
-You can find my [CV here](https://xuying.github.io/files/CV_YingXu.pdf).
+You can find my [CV here](https://xuying0506.github.io/files/CV_YingXu.pdf).
