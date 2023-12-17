@@ -77,7 +77,7 @@
   // height: 36px;
   width: 100%;
    
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     display: block;
     width: auto;
     height: auto;
