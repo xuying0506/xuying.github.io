@@ -15,7 +15,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics and Education at Columbia University.
 
-My research interests are in Economics of Education, Industrial Organization, and Public Econometrics.
+My research interests are in Economics of Education, Industrial Organization, and Public Economics.
 
 I am on the 2023-24 job market.
 
