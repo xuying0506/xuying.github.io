@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in pdf](https://xuying0506.github.io/files/CV_YingXu_website.pdf)
+[CV in pdf](https://xuying0506.github.io/files/CV_YingXu_website.pdf).
 
 <!-- Education
 ======
